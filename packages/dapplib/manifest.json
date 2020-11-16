@@ -1,0 +1,14 @@
+{
+    "name": "Hello",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Hello",
+        "/category/asset_value_tracking/token/symbol": "HEY",
+        "/category/asset_value_tracking/token/decimals": "10",
+        "/category/asset_value_tracking/token/supply": "100"
+    }
+}
